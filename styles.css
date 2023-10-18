@@ -1,0 +1,32 @@
+.tablica{
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px;
+
+    text-align: center;
+    font-size: 29px;
+  
+  }
+  th, td {
+    border: 3px solid black;
+    padding: 8px;}
+  .tg{
+    background: rgb(98, 226, 98);
+
+  }
+  .tr{
+    background: rgb(255, 110, 110);
+
+  }
+  .tgrey{
+
+  }
+  body{
+
+    margin: auto;
+    background-color: beige;
+  }
+  .r1{
+    background: white;
+  }
