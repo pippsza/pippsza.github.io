@@ -12,11 +12,11 @@
     border: 3px solid black;
     padding: 8px;}
   .tg{
-    background: rgb(98, 226, 98);
+    background: rgb(136, 237, 136);
 
   }
   .tr{
-    background: rgb(255, 110, 110);
+    background: rgb(249, 171, 171);
 
   }
   .tgrey{
@@ -27,6 +27,9 @@
     margin: auto;
     background-color: beige;
   }
+  .bb{
+    background-color: beige;
+  }
   .r1{
-    background: white;
+    background:#eeb85a
   }
