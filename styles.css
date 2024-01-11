@@ -1,4 +1,11 @@
-.tablica{
+body{
+  background-image: url('photo_2024-01-11_12-55-45.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+.tablica{opacity: 95%;
     border: 3px solid black;
     border-collapse: collapse;
     width: 100%;
@@ -16,6 +23,7 @@
 
   }
   .tr{
+  
     background: rgb(249, 171, 171);
 
   }
