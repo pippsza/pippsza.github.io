@@ -1,11 +1,13 @@
 body{
-  background-image: url('photo_2024-01-11_12-55-45.jpg');
+  background-image: url('photo_2024-01-12_20-19-36.jpg');
   background-repeat: no-repeat;
   background-size: cover;
  
 }
 
-.tablica{opacity: 95%;
+.tablica{
+  /* margin-top: px; */
+  opacity: 93  %;
     border: 3px solid black;
     border-collapse: collapse;
     width: 100%;
